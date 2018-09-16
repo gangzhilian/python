@@ -42,3 +42,11 @@ range()
 
 sys.exit():提前结束程序运行
 
+abs():返回数字的绝对值
+
+## 函数
+
+def
+
+return
+
