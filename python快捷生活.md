@@ -81,3 +81,24 @@ range(len(列表)) 用来循环列表里的下标
 in和not in
 
 多重赋值
+
+index()
+
+append()和insert()
+
+remove() 知道值
+
+del() 知道下标
+
+sort()排序   reverse=Ture 逆序
+
+字符串和元组和列表类似
+
+元祖只有一个值得话，加上一个逗号
+
+list()和tuple()
+
+copy模块的copy()和deepcopy()  （因为列表包含了列表）
+
+## 字典
+
